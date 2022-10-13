@@ -10,14 +10,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //Kupec
             Kupec janez = new Kupec();
             janez.Ime = "Janze novak";
             janez.beležiKlic(10, TipKlica.Stacionarno);
             Console.WriteLine(janez.Ime + " dolguje " + janez.Stanje);
-            Kupec alenka = new Kupec();
-            alenka.Ime = "alenka novak";
-            alenka.beležiKlic(10, TipKlica.Mobilo);
+            Console.WriteLine("get type " + janez.GetType());
+            Console.WriteLine("to string " + janez.ToString());
+
+            //Kupec60
+            Kupec /*<- je lahko tudi Kupec -> tam ostane kupec60*/ alenka = new Kupec60(); //lahko gre gor v hirarhiji dol pa ne
+            //^če Kupec potli kliče funkcije od razreda Kupec ne Kupec60
+            alenka.Ime = "janez novak";
+            alenka.beležiKlic(100, TipKlica.Mobilo);
             Console.WriteLine(alenka.Ime + " dolguje " + alenka.Stanje);
+            Console.WriteLine("get type " + alenka.GetType());
+            Console.WriteLine("to string " + alenka.ToString());
+
             Console.ReadLine();
         }
     }

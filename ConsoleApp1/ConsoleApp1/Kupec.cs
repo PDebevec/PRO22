@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,8 +9,8 @@ namespace ConsoleApp1
 {
     internal class Kupec
     {
-        private string ime;
-        private decimal stanje;
+        protected string ime;
+        protected decimal stanje;
 
         public string Ime { get => ime; set => ime = value; }
         public decimal Stanje { get => stanje; } //ne moreš spreminjat izven razreda
@@ -17,7 +18,7 @@ namespace ConsoleApp1
         {
             stanje -= plačila;
         }
-        public void beležiKlic(int min, TipKlica tip)
+        public virtual void beležiKlic(int min, TipKlica tip)
         {
             switch (tip)
             {
@@ -30,6 +31,10 @@ namespace ConsoleApp1
                 default:
                     break;
             }
+        }
+        public override string ToString()
+        {
+            return ime + " dolguje " + stanje + " dinarju";
         }
     }
 }
