@@ -10,7 +10,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            Kupec janez = new Kupec();
+            janez.Ime = "Janze novak";
+            janez.beležiKlic(10, TipKlica.Stacionarno);
+            Console.WriteLine(janez.Ime + " dolguje " + janez.Stanje);
+            Kupec alenka = new Kupec();
+            alenka.Ime = "alenka novak";
+            alenka.beležiKlic(10, TipKlica.Mobilo);
+            Console.WriteLine(alenka.Ime + " dolguje " + alenka.Stanje);
+            Console.ReadLine();
         }
     }
 }

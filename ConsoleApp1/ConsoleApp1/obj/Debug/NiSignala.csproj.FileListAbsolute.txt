@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\obj\Debug\NiSignala.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\obj\Debug\NiSignala.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\obj\Debug\NiSignala.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\D disk\git\PRO22\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
