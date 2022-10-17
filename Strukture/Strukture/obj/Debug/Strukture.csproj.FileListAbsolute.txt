@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\Strukture\Strukture\bin\Debug\Strukture.exe.config
+C:\D disk\git\PRO22\Strukture\Strukture\bin\Debug\Strukture.exe
+C:\D disk\git\PRO22\Strukture\Strukture\bin\Debug\Strukture.pdb
+C:\D disk\git\PRO22\Strukture\Strukture\obj\Debug\Strukture.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\Strukture\Strukture\obj\Debug\Strukture.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\Strukture\Strukture\obj\Debug\Strukture.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\Strukture\Strukture\obj\Debug\Strukture.exe
+C:\D disk\git\PRO22\Strukture\Strukture\obj\Debug\Strukture.pdb
