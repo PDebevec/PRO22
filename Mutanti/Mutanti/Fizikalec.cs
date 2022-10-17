@@ -8,8 +8,12 @@ namespace Mutanti
 {
     internal class Fizikalec : Mutant
     {
-        public int IQ;
-        public int Moč;
+        private int iQ;
+        private int moč;
+
+        public int IQ { get => iQ; set => iQ = value; }
+        public int Moč { get => moč; set => moč = value; }
+
         public override int kvocientNevarnosti()
         {
             return Stopnja * IQ * Moč;

@@ -8,7 +8,10 @@ namespace Mutanti
 {
     internal class Elementarec : Mutant
     {
-        public int Področje;
+        private int področje;
+
+        public int Področje { get => področje; set => področje = value; }
+
         public override int kvocientNevarnosti()
         {
             return Stopnja * Področje;
