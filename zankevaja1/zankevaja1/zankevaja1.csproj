@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{84967E23-D097-43F0-A2A1-2C9937CE72E7}</ProjectGuid>
+    <ProjectGuid>{102CEEA1-5941-4950-B2C3-A11057DDA4F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>zankevaja1</RootNamespace>
+    <AssemblyName>zankevaja1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kupec.cs" />
-    <Compile Include="Kupec60.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TipKlica.cs" />
-    <Compile Include="ZaltiKupec.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

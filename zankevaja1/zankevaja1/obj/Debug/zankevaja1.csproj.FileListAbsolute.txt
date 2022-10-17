@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\bin\Debug\zankevaja1.exe.config
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\bin\Debug\zankevaja1.exe
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\bin\Debug\zankevaja1.pdb
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\obj\Debug\zankevaja1.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\obj\Debug\zankevaja1.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\obj\Debug\zankevaja1.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\obj\Debug\zankevaja1.exe
+C:\D disk\git\PRO22\zankevaja1\zankevaja1\obj\Debug\zankevaja1.pdb

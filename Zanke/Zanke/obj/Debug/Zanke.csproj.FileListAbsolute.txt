@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\Zanke\Zanke\bin\Debug\Zanke.exe.config
+C:\D disk\git\PRO22\Zanke\Zanke\bin\Debug\Zanke.exe
+C:\D disk\git\PRO22\Zanke\Zanke\bin\Debug\Zanke.pdb
+C:\D disk\git\PRO22\Zanke\Zanke\obj\Debug\Zanke.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\Zanke\Zanke\obj\Debug\Zanke.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\Zanke\Zanke\obj\Debug\Zanke.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\Zanke\Zanke\obj\Debug\Zanke.exe
+C:\D disk\git\PRO22\Zanke\Zanke\obj\Debug\Zanke.pdb

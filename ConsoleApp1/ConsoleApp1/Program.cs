@@ -27,6 +27,9 @@ namespace ConsoleApp1
             Console.WriteLine("get type " + alenka.GetType());
             Console.WriteLine("to string " + alenka.ToString());
 
+            Kupec[] vsiKupci = new Kupec[2];
+            vsiKupci[0] = new Kupec();
+            vsiKupci[1] = new ZaltiKupec();
             Console.ReadLine();
         }
     }
