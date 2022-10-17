@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\Mutanti\Mutanti\bin\Debug\Mutanti.exe.config
+C:\D disk\git\PRO22\Mutanti\Mutanti\bin\Debug\Mutanti.exe
+C:\D disk\git\PRO22\Mutanti\Mutanti\bin\Debug\Mutanti.pdb
+C:\D disk\git\PRO22\Mutanti\Mutanti\obj\Debug\Mutanti.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\Mutanti\Mutanti\obj\Debug\Mutanti.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\Mutanti\Mutanti\obj\Debug\Mutanti.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\Mutanti\Mutanti\obj\Debug\Mutanti.exe
+C:\D disk\git\PRO22\Mutanti\Mutanti\obj\Debug\Mutanti.pdb
