@@ -1,0 +1,10 @@
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.exe.config
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.exe
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.pdb
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.Form1.resources
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.Properties.Resources.resources
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.exe
+C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.pdb

@@ -12,28 +12,34 @@ namespace KompleksnaŠT
 {
     public partial class Form1 : Form
     {
+        Kompleksno k1, k2;
         public Form1()
         {
             InitializeComponent();
+            k1 = new Kompleksno();
+            k2 = new Kompleksno();
         }
-        Kompleksno k1;
-        Kompleksno k2;
+        private void NovaKompleksnašt()
+        {
+            k1.Re = Convert.ToDouble(tb11.Text); k1.Im = Convert.ToDouble(tb12.Text);
+            k2.Re = Convert.ToDouble(tb11.Text); k2.Im = Convert.ToDouble(tb12.Text);
+        }
         private void b1_Click(object sender, EventArgs e)
         {
-            k1 = new Kompleksno(Convert.ToDouble(tb11.Text), Convert.ToDouble(tb12));
-            k2 = new Kompleksno(Convert.ToDouble(tb21.Text), Convert.ToDouble(tb22));
+            NovaKompleksnašt();
+            rez.Text = (k1 + k2).ToString();
         }
 
         private void b2_Click(object sender, EventArgs e)
         {
-            k1 = new Kompleksno(Convert.ToDouble(tb11.Text), Convert.ToDouble(tb12));
-            k2 = new Kompleksno(Convert.ToDouble(tb21.Text), Convert.ToDouble(tb22));
+            NovaKompleksnašt();
+            rez.Text = (k1 - k2).ToString();
         }
 
         private void b3_Click(object sender, EventArgs e)
         {
-            k1 = new Kompleksno(Convert.ToDouble(tb11.Text), Convert.ToDouble(tb12));
-            k2 = new Kompleksno(Convert.ToDouble(tb21.Text), Convert.ToDouble(tb22));
+            NovaKompleksnašt();
+            rez.Text = (k1 * k2).ToString();
         }
 
         private void cls_Click(object sender, EventArgs e)
