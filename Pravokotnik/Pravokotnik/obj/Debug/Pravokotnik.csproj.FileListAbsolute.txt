@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\D disk\git\PRO22\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.pdb
