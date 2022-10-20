@@ -8,3 +8,14 @@ C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.
 C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.CoreCompileInputs.cache
 C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.exe
 C:\Users\Peter\Desktop\2\C#\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.pdb
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.exe.config
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.exe
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\bin\Debug\KompleksnaŠT.pdb
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.Form1.resources
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.Properties.Resources.resources
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.exe
+C:\D disk\git\PRO22\KompleksnaŠT\KompleksnaŠT\obj\Debug\KompleksnaŠT.pdb

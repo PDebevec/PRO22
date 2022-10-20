@@ -13,8 +13,8 @@ namespace KompleksnaŠT
         public double Re { get => re; set => re = value; }
         public double Im { get => im; set => im = value; }
         
-        public Kompleksno() { re = 0; im = 0; }
-        public Kompleksno(double a, double b)
+        //public Kompleksno() { re = 0; im = 0; } //idk za manj kode sam ne vem 
+        public Kompleksno(double a = 0, double b = 0)
         {
             re = a;
             im = b;
@@ -25,7 +25,7 @@ namespace KompleksnaŠT
         public static Kompleksno operator -(Kompleksno a, Kompleksno b)
             => new Kompleksno(a.re - b.re, a.im - b.im);
         public static Kompleksno operator *(Kompleksno a, Kompleksno b)
-            => new Kompleksno(a.re * b.re - a.im * b.im, a.re * b.im - a.im * b.re);
+            => new Kompleksno(a.re * b.re - a.im * b.im, a.re * b.im + a.im * b.re);
 
         public override string ToString()
         {
@@ -36,9 +36,9 @@ namespace KompleksnaŠT
                 return Convert.ToString(re);
             }
             else if (re == 0)
-                return Convert.ToString(re);
+                return Convert.ToString(im) + "i";
 
-            return re + "+" + im + "i";
+            return re + (im < 0 ? "" : "+") + (Math.Abs(im) == 1 ? "" : Convert.ToString(im)) + "i";
         }
     }
 }

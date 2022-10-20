@@ -22,7 +22,7 @@ namespace KompleksnaŠT
         private void NovaKompleksnašt()
         {
             k1.Re = Convert.ToDouble(tb11.Text); k1.Im = Convert.ToDouble(tb12.Text);
-            k2.Re = Convert.ToDouble(tb11.Text); k2.Im = Convert.ToDouble(tb12.Text);
+            k2.Re = Convert.ToDouble(tb21.Text); k2.Im = Convert.ToDouble(tb22.Text);
         }
         
         private void b1_Click(object sender, EventArgs e)
