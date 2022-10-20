@@ -13,6 +13,27 @@ namespace Strukture
         struct Vektor
         {
             public double x, y, z;
+            public double this[int i]
+            {
+                set {
+                    switch (i)
+                    {
+                        case 0: x = value;break;
+                        case 1: y = value;break;
+                        case 2: z = value;break;
+                        default: throw new IndexOutOfRangeException();
+                    }
+                }
+                get {
+                    switch (i)
+                    {
+                        case 0: return x;
+                        case 1: return y;
+                        case 2: return z;
+                        default: throw new IndexOutOfRangeException("predelač smo šli");
+                    }
+                }
+            }
             public override string ToString()
                 => "(" + x + "," + y + "," + z + ")";
             
@@ -55,6 +76,10 @@ namespace Strukture
             Console.WriteLine(a.ToString());
             Vektor c = 5 * v + a;
             Console.WriteLine(c.ToString());
+            for (int k = 0; k < 3; k++)
+            {
+                Console.WriteLine(v[k]);
+            }
             Console.ReadLine();
         }
     }
