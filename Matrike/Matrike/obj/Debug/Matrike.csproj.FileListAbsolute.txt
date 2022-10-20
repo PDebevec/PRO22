@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\Matrike\Matrike\bin\Debug\Matrike.exe.config
+C:\D disk\git\PRO22\Matrike\Matrike\bin\Debug\Matrike.exe
+C:\D disk\git\PRO22\Matrike\Matrike\bin\Debug\Matrike.pdb
+C:\D disk\git\PRO22\Matrike\Matrike\obj\Debug\Matrike.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\Matrike\Matrike\obj\Debug\Matrike.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\Matrike\Matrike\obj\Debug\Matrike.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\Matrike\Matrike\obj\Debug\Matrike.exe
+C:\D disk\git\PRO22\Matrike\Matrike\obj\Debug\Matrike.pdb
