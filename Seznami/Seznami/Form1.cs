@@ -44,12 +44,25 @@ namespace Seznami
 
         private void btnprvi_Click(object sender, EventArgs e)
         {
-            tbkonzola.Text = "Prvi element je " + seznam[0].ToString();
+            try {
+                tbkonzola.Text = "Prvi element je " + seznam[0].ToString();
+            }
+            catch (Exception ex)
+            {
+                tbkonzola.Text = ex.GetHashCode().ToString();
+            }
         }
 
         private void btnzadnji_Click(object sender, EventArgs e)
         {
-            tbkonzola.Text = "Prvi element je " + seznam[seznam.Count-1].ToString();
+            try
+            {
+                tbkonzola.Text = "Prvi element je " + seznam[seznam.Count-1].ToString();
+            }
+            catch (Exception ex)
+            {
+                tbkonzola.Text = ex.GetHashCode().ToString();
+            }
         }
 
         private void btnprazen_Click(object sender, EventArgs e)
