@@ -91,7 +91,7 @@
             // 
             // btnzadnji
             // 
-            this.btnzadnji.Location = new System.Drawing.Point(178, 69);
+            this.btnzadnji.Location = new System.Drawing.Point(180, 69);
             this.btnzadnji.Name = "btnzadnji";
             this.btnzadnji.Size = new System.Drawing.Size(75, 23);
             this.btnzadnji.TabIndex = 5;
