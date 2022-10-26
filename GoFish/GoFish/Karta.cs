@@ -12,7 +12,7 @@ namespace GoFish
         public Barve Barva { get; set; }
         public Vrednosti Vrednost { get; set; }
         public string Ime { get; set; }
-        
+
         public Karta(Barve b, Vrednosti v)
         {
             Barva = b;

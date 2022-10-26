@@ -20,59 +20,70 @@ namespace GoFish
         public Form1()
         {
             InitializeComponent();
-            kup1 = new Kup();
+            kup1 = new Kup(5);
             kup2 = new Kup();
+            add(lblevo.Items, kup1);
+            add(lbdesno.Items, kup2);
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void add(dynamic lb, Kup kup)
         {
-            List<Karta> kup = new List<Karta>();
-            string rez = "nove karta " + Environment.NewLine;
-            
-            for (int i = 0; i < 5; i++)
+            List<string> ls = kup.ImenaKart();
+            for (int i = 0; i < kup.count; i++)
             {
-                kup.Add(new Karta((Barve)rand.Next(4), (Vrednosti)rand.Next(1, 14)));
-                rez += kup[i].Ime + Environment.NewLine;
+                lb.Add(ls[i]);
             }
-            
-            kup.Sort(new Primerjava());
-            
-            rez += Environment.NewLine + "urejen kup" + Environment.NewLine;
-            
-            foreach (Karta i in kup)
-                rez += i.Ime + Environment.NewLine;
-
-            MessageBox.Show(rez);
         }
-        //>> btn
+        private void update(dynamic lb, Kup kup)
+        {
+            List<string> ls = kup.ImenaKart();
+            for (int i = 0; i < lb.Count; i++)
+            {
+                lb[i] = ls[i];
+            }
+        }
+        //btn >>
         private void btndesno_Click(object sender, EventArgs e)
         {
-
+            if (lblevo.SelectedIndex != -1)
+            {
+                kup2.add(kup1.Deli(lblevo.SelectedIndex));
+                lbdesno.Items.Add(lblevo.Items[lblevo.SelectedIndex]);
+                lblevo.Items.RemoveAt(lblevo.SelectedIndex);
+            }
         }
-        //<< btn
+        //btn <<
         private void btnlevo_Click(object sender, EventArgs e)
         {
-
+            if (lbdesno.SelectedIndex != -1)
+            {
+                kup1.add(kup2.Deli(lbdesno.SelectedIndex));
+                lblevo.Items.Add(lbdesno.Items[lbdesno.SelectedIndex]);
+                lbdesno.Items.RemoveAt(lbdesno.SelectedIndex);
+            }
         }
-        //postavi 1
-        private void postaviena_Click(object sender, EventArgs e)
+        //ponastavi 1
+        private void ponastaviena_Click(object sender, EventArgs e)
         {
-
+            kup1.sort();
+            update(lblevo.Items, kup1);
         }
-        //postavi 2
-        private void postavidva_Click(object sender, EventArgs e)
+        //ponastavi 2
+        private void ponastavidva_Click(object sender, EventArgs e)
         {
-
+            kup2.sort();
+            update(lbdesno.Items, kup2);
         }
         //mešaj 1
         private void mešajena_Click(object sender, EventArgs e)
         {
-
+            kup1.mešaj();
+            update(lblevo.Items, kup1);
         }
         //mešaj 2
         private void mešajdva_Click(object sender, EventArgs e)
         {
-
+            kup2.mešaj();
+            update(lbdesno.Items, kup2);
         }
     }
 }

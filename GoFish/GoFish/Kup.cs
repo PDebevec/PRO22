@@ -17,12 +17,13 @@ namespace GoFish
             kup = new List<Karta>();
             for (int i = 0; i < 4; i++)
             {
-                for (int j = 0; j < 14; j++)
+                for (int j = 1; j < 14; j++)
                 {
                     kup.Add(new Karta((Barve)i, (Vrednosti)j));
                 }
             }
         }
+        public Kup(int size) => kup = new List<Karta>(size);
         public Kup(IEnumerable<Karta> start)
             => kup = new List<Karta>(start);
         
@@ -47,12 +48,11 @@ namespace GoFish
         }
         public void mešaj()
         {
-            Karta temp;
             for (int i = 0; i < kup.Count; i++)
             {
                 int x = r.Next(kup.Count);
                 int y = r.Next(kup.Count);
-                temp = kup[x];
+                Karta temp = kup[x];
                 kup[x] = kup[y];
                 kup[y] = temp;
             }

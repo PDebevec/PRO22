@@ -34,9 +34,9 @@
             this.lbdesno = new System.Windows.Forms.ListBox();
             this.btndesno = new System.Windows.Forms.Button();
             this.btnlevo = new System.Windows.Forms.Button();
-            this.postaviena = new System.Windows.Forms.Button();
+            this.ponastaviena = new System.Windows.Forms.Button();
             this.mešajena = new System.Windows.Forms.Button();
-            this.postavidva = new System.Windows.Forms.Button();
+            this.ponastavidva = new System.Windows.Forms.Button();
             this.mešajdva = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -94,41 +94,41 @@
             this.btnlevo.UseVisualStyleBackColor = true;
             this.btnlevo.Click += new System.EventHandler(this.btnlevo_Click);
             // 
-            // postaviena
+            // ponastaviena
             // 
-            this.postaviena.Location = new System.Drawing.Point(16, 360);
-            this.postaviena.Name = "postaviena";
-            this.postaviena.Size = new System.Drawing.Size(75, 23);
-            this.postaviena.TabIndex = 6;
-            this.postaviena.Text = "postavi #1";
-            this.postaviena.UseVisualStyleBackColor = true;
-            this.postaviena.Click += new System.EventHandler(this.postaviena_Click);
+            this.ponastaviena.Location = new System.Drawing.Point(16, 360);
+            this.ponastaviena.Name = "ponastaviena";
+            this.ponastaviena.Size = new System.Drawing.Size(120, 23);
+            this.ponastaviena.TabIndex = 6;
+            this.ponastaviena.Text = "ponastavi #1";
+            this.ponastaviena.UseVisualStyleBackColor = true;
+            this.ponastaviena.Click += new System.EventHandler(this.ponastaviena_Click);
             // 
             // mešajena
             // 
             this.mešajena.Location = new System.Drawing.Point(16, 390);
             this.mešajena.Name = "mešajena";
-            this.mešajena.Size = new System.Drawing.Size(75, 23);
+            this.mešajena.Size = new System.Drawing.Size(120, 23);
             this.mešajena.TabIndex = 7;
             this.mešajena.Text = "mešaj #1";
             this.mešajena.UseVisualStyleBackColor = true;
             this.mešajena.Click += new System.EventHandler(this.mešajena_Click);
             // 
-            // postavidva
+            // ponastavidva
             // 
-            this.postavidva.Location = new System.Drawing.Point(301, 361);
-            this.postavidva.Name = "postavidva";
-            this.postavidva.Size = new System.Drawing.Size(75, 23);
-            this.postavidva.TabIndex = 8;
-            this.postavidva.Text = "postavi #2";
-            this.postavidva.UseVisualStyleBackColor = true;
-            this.postavidva.Click += new System.EventHandler(this.postavidva_Click);
+            this.ponastavidva.Location = new System.Drawing.Point(301, 361);
+            this.ponastavidva.Name = "ponastavidva";
+            this.ponastavidva.Size = new System.Drawing.Size(120, 23);
+            this.ponastavidva.TabIndex = 8;
+            this.ponastavidva.Text = "ponastavi #2";
+            this.ponastavidva.UseVisualStyleBackColor = true;
+            this.ponastavidva.Click += new System.EventHandler(this.ponastavidva_Click);
             // 
             // mešajdva
             // 
             this.mešajdva.Location = new System.Drawing.Point(301, 390);
             this.mešajdva.Name = "mešajdva";
-            this.mešajdva.Size = new System.Drawing.Size(75, 23);
+            this.mešajdva.Size = new System.Drawing.Size(120, 23);
             this.mešajdva.TabIndex = 9;
             this.mešajdva.Text = "mešaj #2";
             this.mešajdva.UseVisualStyleBackColor = true;
@@ -140,9 +140,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(445, 485);
             this.Controls.Add(this.mešajdva);
-            this.Controls.Add(this.postavidva);
+            this.Controls.Add(this.ponastavidva);
             this.Controls.Add(this.mešajena);
-            this.Controls.Add(this.postaviena);
+            this.Controls.Add(this.ponastaviena);
             this.Controls.Add(this.btnlevo);
             this.Controls.Add(this.btndesno);
             this.Controls.Add(this.lbdesno);
@@ -164,9 +164,9 @@
         private System.Windows.Forms.ListBox lbdesno;
         private System.Windows.Forms.Button btndesno;
         private System.Windows.Forms.Button btnlevo;
-        private System.Windows.Forms.Button postaviena;
+        private System.Windows.Forms.Button ponastaviena;
         private System.Windows.Forms.Button mešajena;
-        private System.Windows.Forms.Button postavidva;
+        private System.Windows.Forms.Button ponastavidva;
         private System.Windows.Forms.Button mešajdva;
     }
 }
