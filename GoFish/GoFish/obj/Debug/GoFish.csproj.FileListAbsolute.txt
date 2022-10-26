@@ -1,0 +1,11 @@
+C:\D disk\git\PRO22\GoFish\GoFish\bin\Debug\GoFish.exe.config
+C:\D disk\git\PRO22\GoFish\GoFish\bin\Debug\GoFish.exe
+C:\D disk\git\PRO22\GoFish\GoFish\bin\Debug\GoFish.pdb
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.exe
+C:\D disk\git\PRO22\GoFish\GoFish\obj\Debug\GoFish.pdb
