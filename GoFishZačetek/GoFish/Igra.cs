@@ -27,6 +27,10 @@ namespace GoFish
                               // imam tu vse možne karte
             Deli();
             igralci[0].SortRoka();
+            foreach (Vrednosti iv in Enum.GetValues(typeof(Vrednosti)))
+            {
+                kompleti.Add(iv, null);
+            }
         }
         private void Deli()
         {
@@ -64,25 +68,102 @@ namespace GoFish
             //kompletov, komplete odstrani, po potrebi dodeli igralcu nove karte
             //če zmanjka kart je igre konec
         }
-
+        public bool IzločiKomplete(Igralec ig)
+        {
+            //izloči komplete za posameznega igralca in vrne vrednost true
+            //če je igralec ostal brez kart
+            foreach (Igralec i in igralci)
+            {
+                i.IzločiKomplete();
+            }
+            ig.IzločiKomplete();
+            if (ig.ŠtevecKart == 0)
+                return true;
+            return false;
+        }
         internal IEnumerable<string> KarteIgralca()
         {
-            throw new NotImplementedException();
+            //vrni seznam imen igralcev
+            List<string> imenai = new List<string>();
+            foreach (Igralec i in igralci)
+            {
+                imenai.Add(i.Ime);
+            }
+            return imenai;
         }
 
         internal string OpišiKomplete()
         {
-            throw new NotImplementedException();
+            //vrni niz, v katerem so imena igralcev in kompleti kart
+            string temp = "";
+            for (int i = 0; i < igralci.Count; i++)
+            {
+                foreach (Vrednosti j in Enum.GetValues(typeof(Vrednosti)))
+                {
+                    if(kompleti[j] != null)
+                    {
+                        if (kompleti[j].Ime == igralci[i].Ime)
+                        {
+                            temp += igralci[i].Ime + " komplet: " + kompleti[j] + "";
+                        }
+                    }
+                }
+                temp += Environment.NewLine;
+            }
+            return temp;
         }
 
         internal string OpišiVRokah()
         {
-            throw new NotImplementedException();
+            //izpiši imena igralcev in število kart v rokah
+            //izpiši tudi koliko kart je v talonu, opis vrni kot spremenljivko tipa string
+            string temp = "";
+            for (int i = 0; i < igralci.Count; i++)
+            {
+                temp += igralci[i].Ime + " " + igralci[i].ŠtevecKart + Environment.NewLine;
+            }
+            return temp;
         }
 
         internal string ImeZmagovalca()
         {
-            throw new NotImplementedException();
+            //Metoda se kliče na koncu igre. Uporablja svojo strukturo - slovar, v
+            //kateri je število vseh kompletov posameznega igralca
+            //Najprej pregleda z zanko foreach število kompletov in jih doda v zbirko zmagovalcev
+
+            Dictionary<string, int> winners = new Dictionary<string, int>();
+            foreach (Vrednosti v in kompleti.Keys)
+            {
+                string ime = kompleti[v].Ime;
+                if (winners.ContainsKey(ime))
+                    winners[ime]++;
+                else
+                    winners.Add(ime, 1);
+            }
+            //Nato poišče največjo vrednost kompletov
+            int mostBooks = 0;
+            foreach (string name in winners.Keys)
+                if (winners[name] > mostBooks)
+                    mostBooks = winners[name];
+            bool tie = false;
+            string winnerList = "";
+            //določi kateri od igralcev ima to vrednost, lahko jih je več
+            foreach (string name in winners.Keys)
+                if (winners[name] == mostBooks)
+                {
+                    if (!String.IsNullOrEmpty(winnerList))
+                    {
+                        winnerList += " in ";
+                        tie = true;
+                    }
+                    winnerList += name;
+                }
+            winnerList += " z " + mostBooks + " kompleti";
+            if (tie)
+                return "Neodločeno " + winnerList;
+            else
+                return winnerList;
+
         }
     }
 }

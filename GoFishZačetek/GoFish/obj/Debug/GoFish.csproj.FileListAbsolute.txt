@@ -14,3 +14,13 @@ C:\D disk\git\PRO22\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.GenerateResour
 C:\D disk\git\PRO22\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
 C:\D disk\git\PRO22\GoFishZačetek\GoFish\obj\Debug\GoFish.exe
 C:\D disk\git\PRO22\GoFishZačetek\GoFish\obj\Debug\GoFish.pdb
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\bin\Debug\GoFish.exe
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\bin\Debug\GoFish.pdb
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.Form1.resources
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.exe
+C:\Users\Peter\Desktop\2\C#\GoFishZačetek\GoFish\obj\Debug\GoFish.pdb

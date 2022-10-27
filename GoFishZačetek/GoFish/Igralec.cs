@@ -25,7 +25,8 @@ namespace GoFish
             ime = i;
             random = r;
             textNaFormi = t;
-            textNaFormi.Text += ime + " se je pridružil igri"+Environment.NewLine;
+            textNaFormi.Text += ime + " se je pridružil igri" + Environment.NewLine;
+            roka = new Kup();
         }
 
         public IEnumerable<Vrednosti> IzločiKomplete()
