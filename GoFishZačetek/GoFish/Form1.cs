@@ -17,7 +17,7 @@ namespace GoFish
             InitializeComponent();
         }
 
-        //private Igra igra;
+        private Igra igra;
 
         private void buttonStart_Click(object sender, EventArgs e)
         {
@@ -26,7 +26,7 @@ namespace GoFish
                 MessageBox.Show("Vnesi svoje ime", "Ne morem še začeti");
                 return;
             }
-            //igra = new Igra(txtIme.Text, new List<string> { "Janez", "Marija" }, txtIgra);
+            igra = new Igra(txtIme.Text, new List<string> { "Janez", "Marija" }, txtIgra);
             buttonStart.Enabled = false;
             txtIme.Enabled = false;
             buttonAsk.Enabled = true;
@@ -36,12 +36,12 @@ namespace GoFish
         private void UpdateForm()
         {
             lstVRokah.Items.Clear();
-            //foreach (String cardName in igra.KarteIgralca())
-            //    lstVRokah.Items.Add(cardName);
-            //txtKompleti.Text = igra.OpišiKomplete();
-            //txtIgra.Text += igra.OpišiVRokah();
-            //txtIgra.SelectionStart = txtIgra.Text.Length;
-            //txtIgra.ScrollToCaret();
+            foreach (String cardName in igra.KarteIgralca())
+                lstVRokah.Items.Add(cardName);
+            txtKompleti.Text = igra.OpišiKomplete();
+            txtIgra.Text += igra.OpišiVRokah();
+            txtIgra.SelectionStart = txtIgra.Text.Length;
+            txtIgra.ScrollToCaret();
         }
 
         private void buttonAsk_Click(object sender, EventArgs e)
@@ -52,14 +52,14 @@ namespace GoFish
                 MessageBox.Show("Prosim izberi karto");
                 return;
             }
-            //if (igra.IgrajEnKrog(lstVRokah.SelectedIndex))
-            //{
-            //    txtIgra.Text += "Zmagovalec je... " + igra.ImeZmagovalca();
-            //    txtKompleti.Text = igra.OpišiKomplete();
-            //    buttonAsk.Enabled = false;
-            //}
-            //else
-            //    UpdateForm();
+            if (igra.IgrajEnKrog(lstVRokah.SelectedIndex))
+            {
+                txtIgra.Text += "Zmagovalec je... " + igra.ImeZmagovalca();
+                txtKompleti.Text = igra.OpišiKomplete();
+                buttonAsk.Enabled = false;
+            }
+            else
+                UpdateForm();
         }
     }
 
