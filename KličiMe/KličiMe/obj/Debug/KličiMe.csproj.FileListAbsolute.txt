@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\KličiMe\KličiMe\bin\Debug\KličiMe.exe.config
+C:\D disk\git\PRO22\KličiMe\KličiMe\bin\Debug\KličiMe.exe
+C:\D disk\git\PRO22\KličiMe\KličiMe\bin\Debug\KličiMe.pdb
+C:\D disk\git\PRO22\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\KličiMe\KličiMe\obj\Debug\KličiMe.exe
+C:\D disk\git\PRO22\KličiMe\KličiMe\obj\Debug\KličiMe.pdb
