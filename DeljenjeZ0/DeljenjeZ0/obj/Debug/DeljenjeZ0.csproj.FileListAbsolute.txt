@@ -1,0 +1,11 @@
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\bin\Debug\DeljenjeZ0.exe.config
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\bin\Debug\DeljenjeZ0.exe
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\bin\Debug\DeljenjeZ0.pdb
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.Form1.resources
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.Properties.Resources.resources
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.exe
+C:\D disk\git\PRO22\DeljenjeZ0\DeljenjeZ0\obj\Debug\DeljenjeZ0.pdb
