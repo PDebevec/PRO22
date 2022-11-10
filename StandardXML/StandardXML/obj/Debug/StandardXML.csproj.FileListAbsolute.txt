@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\StandardXML\StandardXML\bin\Debug\StandardXML.exe.config
+C:\D disk\git\PRO22\StandardXML\StandardXML\bin\Debug\StandardXML.exe
+C:\D disk\git\PRO22\StandardXML\StandardXML\bin\Debug\StandardXML.pdb
+C:\D disk\git\PRO22\StandardXML\StandardXML\obj\Debug\StandardXML.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\StandardXML\StandardXML\obj\Debug\StandardXML.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\StandardXML\StandardXML\obj\Debug\StandardXML.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\StandardXML\StandardXML\obj\Debug\StandardXML.exe
+C:\D disk\git\PRO22\StandardXML\StandardXML\obj\Debug\StandardXML.pdb

@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data id="UVHVVR_AgroMet_Last48_xml">
+	<language>sl</language>
+	<credit>Uprava Republike Slovenije za varno hrano, veterinarstvo in varstvo rastlin</credit>
+	<credit_url>http://agromet.mkgp.gov.si/APP2/sl/Home/Index</credit_url>
+	<docs_url>http://agromet.mkgp.gov.si/APP2/AgrometContent/xml/sl/xml_service.html</docs_url>
+	<disclaimer_url>http://agromet.mkgp.gov.si/APP2/AgrometContent/xml/sl/disclaimer.html</disclaimer_url>
+	<copyright_url>http://agromet.mkgp.gov.si/APP2/AgrometContent/xml/sl/copyright.html</copyright_url>
+	<privacy_policy_url>http://agromet.mkgp.gov.si/APP2/AgrometContent/xml/sl/notice.html</privacy_policy_url>
+	<managing_editor>primoz.pajk@gov.si</managing_editor>
+	<web_master>primoz.pajk@gov.si</web_master>
+	<suggested_pickup>10 minutes after valid</suggested_pickup>
+	<suggested_pickup_period>30</suggested_pickup_period>
+	<two_day_history_url>http://agromet.mkgp.gov.si/APP2/AgrometContent/xml/11.xml</two_day_history_url>
+	<domain_title>Bilje UVHVVR</domain_title>
+	<domain_id>11</domain_id>
+	<domain_shortTitle>Bilje UVHVVR</domain_shortTitle>
+	<domain_longTitle>Bilje UVHVVR</domain_longTitle>
+	<domain_meteosiId>11</domain_meteosiId>
+	<domain_meteosiType>SI_RNSTATION_B</domain_meteosiType>
+	<domain_lat>13.6198</domain_lat>
+	<domain_lon>45.8938</domain_lon>
+	<domain_altitude>55</domain_altitude>
+	<dataSource_title>11</dataSource_title>
+	<tsValid_issued>10.11.2022 09:39 CET</tsValid_issued>
+	<tavg_var_desc>Temperatura na višini 2 m</tavg_var_desc>
+	<tavg_var_unit>°C</tavg_var_unit>
+	<tx_var_desc>Maksimalna temperatura v časovnem intervalu</tx_var_desc>
+	<tx_var_unit>°C</tx_var_unit>
+	<tn_var_desc>Minimalna temperatura v časovnem intervalu</tn_var_desc>
+	<tn_var_unit>°C</tn_var_unit>
+	<rhavg_var_desc>Povprečna relativna vlažnost v časovnem intervalu</rhavg_var_desc>
+	<rhavg_var_unit>%</rhavg_var_unit>
+	<rhx_var_desc>Maksimalna relativna vlažnost v časovnem intervalu</rhx_var_desc>
+	<rhx_var_unit>%</rhx_var_unit>
+	<rhn_var_desc>Minimalnarelativna vlažnost v časovnem intervalu</rhn_var_desc>
+	<rhn_var_unit>%</rhn_var_unit>
+	<td_var_desc>Temperatura rosišča</td_var_desc>
+	<td_var_unit>°C</td_var_unit>
+	<rr_var_desc>Vsota padavin v časovnem intervalu</rr_var_desc>
+	<rr_var_unit>mm</rr_var_unit>
+	<lwavg_var_desc>Omočenost listja</lwavg_var_desc>
+	<lwavg_var_unit>0-10 (do 3 list suh, 4 in več list moker</lwavg_var_unit>
+	<metData>
+		<valid>10.11.2022 09:30 CET</valid>
+		<valid_UTC>10.11.2022 08:30 UTC</valid_UTC>
+		<validStart>10.11.2022 08:00 UTC</validStart>
+		<validEnd>10.11.2022 08:30 UTC</validEnd>
+		<tavg>13.7</tavg>
+		<tx>13.8</tx>
+		<tn>13.6</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.7</td>
+		<rr>1.4</rr>
+		<lwavg>8.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 09:00 CET</valid>
+		<valid_UTC>10.11.2022 08:00 UTC</valid_UTC>
+		<validStart>10.11.2022 07:30 UTC</validStart>
+		<validEnd>10.11.2022 08:00 UTC</validEnd>
+		<tavg>13.6</tavg>
+		<tx>13.7</tx>
+		<tn>13.6</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.6</td>
+		<rr>0.8</rr>
+		<lwavg>7.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 08:30 CET</valid>
+		<valid_UTC>10.11.2022 07:30 UTC</valid_UTC>
+		<validStart>10.11.2022 07:00 UTC</validStart>
+		<validEnd>10.11.2022 07:30 UTC</validEnd>
+		<tavg>13.5</tavg>
+		<tx>13.6</tx>
+		<tn>13.5</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.5</td>
+		<rr>1.0</rr>
+		<lwavg>8.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 08:00 CET</valid>
+		<valid_UTC>10.11.2022 07:00 UTC</valid_UTC>
+		<validStart>10.11.2022 06:30 UTC</validStart>
+		<validEnd>10.11.2022 07:00 UTC</validEnd>
+		<tavg>13.5</tavg>
+		<tx>13.6</tx>
+		<tn>13.3</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.5</td>
+		<rr>1.6</rr>
+		<lwavg>8.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 07:30 CET</valid>
+		<valid_UTC>10.11.2022 06:30 UTC</valid_UTC>
+		<validStart>10.11.2022 06:00 UTC</validStart>
+		<validEnd>10.11.2022 06:30 UTC</validEnd>
+		<tavg>13.6</tavg>
+		<tx>13.6</tx>
+		<tn>13.5</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.6</td>
+		<rr>0.4</rr>
+		<lwavg>9.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 07:00 CET</valid>
+		<valid_UTC>10.11.2022 06:00 UTC</valid_UTC>
+		<validStart>10.11.2022 05:30 UTC</validStart>
+		<validEnd>10.11.2022 06:00 UTC</validEnd>
+		<tavg>13.4</tavg>
+		<tx>13.6</tx>
+		<tn>13.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.4</td>
+		<rr>0.6</rr>
+		<lwavg>9.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 06:30 CET</valid>
+		<valid_UTC>10.11.2022 05:30 UTC</valid_UTC>
+		<validStart>10.11.2022 05:00 UTC</validStart>
+		<validEnd>10.11.2022 05:30 UTC</validEnd>
+		<tavg>13.3</tavg>
+		<tx>13.4</tx>
+		<tn>13.2</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.3</td>
+		<rr>0.2</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 06:00 CET</valid>
+		<valid_UTC>10.11.2022 05:00 UTC</valid_UTC>
+		<validStart>10.11.2022 04:30 UTC</validStart>
+		<validEnd>10.11.2022 05:00 UTC</validEnd>
+		<tavg>13.1</tavg>
+		<tx>13.2</tx>
+		<tn>13.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.1</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 05:30 CET</valid>
+		<valid_UTC>10.11.2022 04:30 UTC</valid_UTC>
+		<validStart>10.11.2022 04:00 UTC</validStart>
+		<validEnd>10.11.2022 04:30 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.1</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.2</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 05:00 CET</valid>
+		<valid_UTC>10.11.2022 04:00 UTC</valid_UTC>
+		<validStart>10.11.2022 03:30 UTC</validStart>
+		<validEnd>10.11.2022 04:00 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.0</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.2</rr>
+		<lwavg>9.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 04:30 CET</valid>
+		<valid_UTC>10.11.2022 03:30 UTC</valid_UTC>
+		<validStart>10.11.2022 03:00 UTC</validStart>
+		<validEnd>10.11.2022 03:30 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.0</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.8</rr>
+		<lwavg>9.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 04:00 CET</valid>
+		<valid_UTC>10.11.2022 03:00 UTC</valid_UTC>
+		<validStart>10.11.2022 02:30 UTC</validStart>
+		<validEnd>10.11.2022 03:00 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.0</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.8</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 03:30 CET</valid>
+		<valid_UTC>10.11.2022 02:30 UTC</valid_UTC>
+		<validStart>10.11.2022 02:00 UTC</validStart>
+		<validEnd>10.11.2022 02:30 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.0</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 03:00 CET</valid>
+		<valid_UTC>10.11.2022 02:00 UTC</valid_UTC>
+		<validStart>10.11.2022 01:30 UTC</validStart>
+		<validEnd>10.11.2022 02:00 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.0</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.2</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 02:30 CET</valid>
+		<valid_UTC>10.11.2022 01:30 UTC</valid_UTC>
+		<validStart>10.11.2022 01:00 UTC</validStart>
+		<validEnd>10.11.2022 01:30 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>13.0</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.4</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 02:00 CET</valid>
+		<valid_UTC>10.11.2022 01:00 UTC</valid_UTC>
+		<validStart>10.11.2022 00:30 UTC</validStart>
+		<validEnd>10.11.2022 01:00 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>12.9</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 01:30 CET</valid>
+		<valid_UTC>10.11.2022 00:30 UTC</valid_UTC>
+		<validStart>10.11.2022 00:00 UTC</validStart>
+		<validEnd>10.11.2022 00:30 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>12.9</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 01:00 CET</valid>
+		<valid_UTC>10.11.2022 00:00 UTC</valid_UTC>
+		<validStart>09.11.2022 23:30 UTC</validStart>
+		<validEnd>10.11.2022 00:00 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>12.9</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 00:30 CET</valid>
+		<valid_UTC>09.11.2022 23:30 UTC</valid_UTC>
+		<validStart>09.11.2022 23:00 UTC</validStart>
+		<validEnd>09.11.2022 23:30 UTC</validEnd>
+		<tavg>12.8</tavg>
+		<tx>12.9</tx>
+		<tn>12.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>10.11.2022 00:00 CET</valid>
+		<valid_UTC>09.11.2022 23:00 UTC</valid_UTC>
+		<validStart>09.11.2022 22:30 UTC</validStart>
+		<validEnd>09.11.2022 23:00 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>12.9</tx>
+		<tn>12.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.2</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 23:30 CET</valid>
+		<valid_UTC>09.11.2022 22:30 UTC</valid_UTC>
+		<validStart>09.11.2022 22:00 UTC</validStart>
+		<validEnd>09.11.2022 22:30 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>13.1</tx>
+		<tn>12.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.2</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 23:00 CET</valid>
+		<valid_UTC>09.11.2022 22:00 UTC</valid_UTC>
+		<validStart>09.11.2022 21:30 UTC</validStart>
+		<validEnd>09.11.2022 22:00 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.1</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 22:30 CET</valid>
+		<valid_UTC>09.11.2022 21:30 UTC</valid_UTC>
+		<validStart>09.11.2022 21:00 UTC</validStart>
+		<validEnd>09.11.2022 21:30 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.1</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 22:00 CET</valid>
+		<valid_UTC>09.11.2022 21:00 UTC</valid_UTC>
+		<validStart>09.11.2022 20:30 UTC</validStart>
+		<validEnd>09.11.2022 21:00 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.1</tx>
+		<tn>13.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 21:30 CET</valid>
+		<valid_UTC>09.11.2022 20:30 UTC</valid_UTC>
+		<validStart>09.11.2022 20:00 UTC</validStart>
+		<validEnd>09.11.2022 20:30 UTC</validEnd>
+		<tavg>12.9</tavg>
+		<tx>12.9</tx>
+		<tn>12.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 21:00 CET</valid>
+		<valid_UTC>09.11.2022 20:00 UTC</valid_UTC>
+		<validStart>09.11.2022 19:30 UTC</validStart>
+		<validEnd>09.11.2022 20:00 UTC</validEnd>
+		<tavg>12.8</tavg>
+		<tx>13.0</tx>
+		<tn>12.7</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>12.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 20:30 CET</valid>
+		<valid_UTC>09.11.2022 19:30 UTC</valid_UTC>
+		<validStart>09.11.2022 19:00 UTC</validStart>
+		<validEnd>09.11.2022 19:30 UTC</validEnd>
+		<tavg>13.0</tavg>
+		<tx>13.1</tx>
+		<tn>12.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 20:00 CET</valid>
+		<valid_UTC>09.11.2022 19:00 UTC</valid_UTC>
+		<validStart>09.11.2022 18:30 UTC</validStart>
+		<validEnd>09.11.2022 19:00 UTC</validEnd>
+		<tavg>13.1</tavg>
+		<tx>13.2</tx>
+		<tn>12.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.1</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 19:30 CET</valid>
+		<valid_UTC>09.11.2022 18:30 UTC</valid_UTC>
+		<validStart>09.11.2022 18:00 UTC</validStart>
+		<validEnd>09.11.2022 18:30 UTC</validEnd>
+		<tavg>13.1</tavg>
+		<tx>13.2</tx>
+		<tn>13.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.1</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 19:00 CET</valid>
+		<valid_UTC>09.11.2022 18:00 UTC</valid_UTC>
+		<validStart>09.11.2022 17:30 UTC</validStart>
+		<validEnd>09.11.2022 18:00 UTC</validEnd>
+		<tavg>13.3</tavg>
+		<tx>13.5</tx>
+		<tn>13.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>13.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 18:30 CET</valid>
+		<valid_UTC>09.11.2022 17:30 UTC</valid_UTC>
+		<validStart>09.11.2022 17:00 UTC</validStart>
+		<validEnd>09.11.2022 17:30 UTC</validEnd>
+		<tavg>13.5</tavg>
+		<tx>13.6</tx>
+		<tn>13.4</tn>
+		<rhavg>99.8</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>99.4</rhn>
+		<td>13.5</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 18:00 CET</valid>
+		<valid_UTC>09.11.2022 17:00 UTC</valid_UTC>
+		<validStart>09.11.2022 16:30 UTC</validStart>
+		<validEnd>09.11.2022 17:00 UTC</validEnd>
+		<tavg>13.7</tavg>
+		<tx>13.8</tx>
+		<tn>13.6</tn>
+		<rhavg>98.9</rhavg>
+		<rhx>99.1</rhx>
+		<rhn>98.6</rhn>
+		<td>13.5</td>
+		<rr>0.0</rr>
+		<lwavg>8.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 17:30 CET</valid>
+		<valid_UTC>09.11.2022 16:30 UTC</valid_UTC>
+		<validStart>09.11.2022 16:00 UTC</validStart>
+		<validEnd>09.11.2022 16:30 UTC</validEnd>
+		<tavg>13.8</tavg>
+		<tx>13.9</tx>
+		<tn>13.7</tn>
+		<rhavg>97.6</rhavg>
+		<rhx>98.6</rhx>
+		<rhn>96.6</rhn>
+		<td>13.4</td>
+		<rr>0.0</rr>
+		<lwavg>3.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 17:00 CET</valid>
+		<valid_UTC>09.11.2022 16:00 UTC</valid_UTC>
+		<validStart>09.11.2022 15:30 UTC</validStart>
+		<validEnd>09.11.2022 16:00 UTC</validEnd>
+		<tavg>14.3</tavg>
+		<tx>14.5</tx>
+		<tn>13.9</tn>
+		<rhavg>95.4</rhavg>
+		<rhx>96.4</rhx>
+		<rhn>94.2</rhn>
+		<td>13.6</td>
+		<rr>0.0</rr>
+		<lwavg>2.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 16:30 CET</valid>
+		<valid_UTC>09.11.2022 15:30 UTC</valid_UTC>
+		<validStart>09.11.2022 15:00 UTC</validStart>
+		<validEnd>09.11.2022 15:30 UTC</validEnd>
+		<tavg>14.6</tavg>
+		<tx>14.8</tx>
+		<tn>14.5</tn>
+		<rhavg>95.1</rhavg>
+		<rhx>96.2</rhx>
+		<rhn>93.4</rhn>
+		<td>13.8</td>
+		<rr>0.0</rr>
+		<lwavg>1.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 16:00 CET</valid>
+		<valid_UTC>09.11.2022 15:00 UTC</valid_UTC>
+		<validStart>09.11.2022 14:30 UTC</validStart>
+		<validEnd>09.11.2022 15:00 UTC</validEnd>
+		<tavg>15.0</tavg>
+		<tx>15.3</tx>
+		<tn>14.9</tn>
+		<rhavg>90.9</rhavg>
+		<rhx>92.9</rhx>
+		<rhn>87.1</rhn>
+		<td>13.5</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 15:30 CET</valid>
+		<valid_UTC>09.11.2022 14:30 UTC</valid_UTC>
+		<validStart>09.11.2022 14:00 UTC</validStart>
+		<validEnd>09.11.2022 14:30 UTC</validEnd>
+		<tavg>15.4</tavg>
+		<tx>15.6</tx>
+		<tn>15.1</tn>
+		<rhavg>83.7</rhavg>
+		<rhx>90.0</rhx>
+		<rhn>81.0</rhn>
+		<td>12.7</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 15:00 CET</valid>
+		<valid_UTC>09.11.2022 14:00 UTC</valid_UTC>
+		<validStart>09.11.2022 13:30 UTC</validStart>
+		<validEnd>09.11.2022 14:00 UTC</validEnd>
+		<tavg>15.6</tavg>
+		<tx>15.8</tx>
+		<tn>15.4</tn>
+		<rhavg>82.9</rhavg>
+		<rhx>85.6</rhx>
+		<rhn>81.2</rhn>
+		<td>12.7</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 14:30 CET</valid>
+		<valid_UTC>09.11.2022 13:30 UTC</valid_UTC>
+		<validStart>09.11.2022 13:00 UTC</validStart>
+		<validEnd>09.11.2022 13:30 UTC</validEnd>
+		<tavg>15.6</tavg>
+		<tx>15.7</tx>
+		<tn>15.5</tn>
+		<rhavg>87.7</rhavg>
+		<rhx>89.4</rhx>
+		<rhn>85.7</rhn>
+		<td>13.6</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 14:00 CET</valid>
+		<valid_UTC>09.11.2022 13:00 UTC</valid_UTC>
+		<validStart>09.11.2022 12:30 UTC</validStart>
+		<validEnd>09.11.2022 13:00 UTC</validEnd>
+		<tavg>15.5</tavg>
+		<tx>15.6</tx>
+		<tn>15.5</tn>
+		<rhavg>89.1</rhavg>
+		<rhx>89.5</rhx>
+		<rhn>88.7</rhn>
+		<td>13.7</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 13:30 CET</valid>
+		<valid_UTC>09.11.2022 12:30 UTC</valid_UTC>
+		<validStart>09.11.2022 12:00 UTC</validStart>
+		<validEnd>09.11.2022 12:30 UTC</validEnd>
+		<tavg>15.4</tavg>
+		<tx>15.6</tx>
+		<tn>15.2</tn>
+		<rhavg>89.0</rhavg>
+		<rhx>89.7</rhx>
+		<rhn>87.9</rhn>
+		<td>13.6</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 13:00 CET</valid>
+		<valid_UTC>09.11.2022 12:00 UTC</valid_UTC>
+		<validStart>09.11.2022 11:30 UTC</validStart>
+		<validEnd>09.11.2022 12:00 UTC</validEnd>
+		<tavg>15.3</tavg>
+		<tx>15.4</tx>
+		<tn>15.2</tn>
+		<rhavg>89.3</rhavg>
+		<rhx>90.6</rhx>
+		<rhn>88.2</rhn>
+		<td>13.6</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 12:30 CET</valid>
+		<valid_UTC>09.11.2022 11:30 UTC</valid_UTC>
+		<validStart>09.11.2022 11:00 UTC</validStart>
+		<validEnd>09.11.2022 11:30 UTC</validEnd>
+		<tavg>14.7</tavg>
+		<tx>15.1</tx>
+		<tn>14.4</tn>
+		<rhavg>91.3</rhavg>
+		<rhx>92.0</rhx>
+		<rhn>89.8</rhn>
+		<td>13.3</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 12:00 CET</valid>
+		<valid_UTC>09.11.2022 11:00 UTC</valid_UTC>
+		<validStart>09.11.2022 10:30 UTC</validStart>
+		<validEnd>09.11.2022 11:00 UTC</validEnd>
+		<tavg>14.3</tavg>
+		<tx>14.5</tx>
+		<tn>14.2</tn>
+		<rhavg>92.1</rhavg>
+		<rhx>92.7</rhx>
+		<rhn>91.5</rhn>
+		<td>13.0</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 11:30 CET</valid>
+		<valid_UTC>09.11.2022 10:30 UTC</valid_UTC>
+		<validStart>09.11.2022 10:00 UTC</validStart>
+		<validEnd>09.11.2022 10:30 UTC</validEnd>
+		<tavg>13.6</tavg>
+		<tx>14.3</tx>
+		<tn>13.3</tn>
+		<rhavg>94.2</rhavg>
+		<rhx>95.2</rhx>
+		<rhn>92.7</rhn>
+		<td>12.7</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 11:00 CET</valid>
+		<valid_UTC>09.11.2022 10:00 UTC</valid_UTC>
+		<validStart>09.11.2022 09:30 UTC</validStart>
+		<validEnd>09.11.2022 10:00 UTC</validEnd>
+		<tavg>13.1</tavg>
+		<tx>13.4</tx>
+		<tn>12.9</tn>
+		<rhavg>95.2</rhavg>
+		<rhx>95.8</rhx>
+		<rhn>94.4</rhn>
+		<td>12.4</td>
+		<rr>0.0</rr>
+		<lwavg>6.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 10:30 CET</valid>
+		<valid_UTC>09.11.2022 09:30 UTC</valid_UTC>
+		<validStart>09.11.2022 09:00 UTC</validStart>
+		<validEnd>09.11.2022 09:30 UTC</validEnd>
+		<tavg>12.8</tavg>
+		<tx>12.9</tx>
+		<tn>12.8</tn>
+		<rhavg>95.0</rhavg>
+		<rhx>95.7</rhx>
+		<rhn>94.3</rhn>
+		<td>12.0</td>
+		<rr>0.0</rr>
+		<lwavg>1.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 10:00 CET</valid>
+		<valid_UTC>09.11.2022 09:00 UTC</valid_UTC>
+		<validStart>09.11.2022 08:30 UTC</validStart>
+		<validEnd>09.11.2022 09:00 UTC</validEnd>
+		<tavg>12.4</tavg>
+		<tx>12.6</tx>
+		<tn>12.2</tn>
+		<rhavg>96.0</rhavg>
+		<rhx>96.9</rhx>
+		<rhn>95.4</rhn>
+		<td>11.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 09:30 CET</valid>
+		<valid_UTC>09.11.2022 08:30 UTC</valid_UTC>
+		<validStart>09.11.2022 08:00 UTC</validStart>
+		<validEnd>09.11.2022 08:30 UTC</validEnd>
+		<tavg>12.1</tavg>
+		<tx>12.3</tx>
+		<tn>11.9</tn>
+		<rhavg>97.9</rhavg>
+		<rhx>98.4</rhx>
+		<rhn>97.1</rhn>
+		<td>11.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 09:00 CET</valid>
+		<valid_UTC>09.11.2022 08:00 UTC</valid_UTC>
+		<validStart>09.11.2022 07:30 UTC</validStart>
+		<validEnd>09.11.2022 08:00 UTC</validEnd>
+		<tavg>11.8</tavg>
+		<tx>11.9</tx>
+		<tn>11.7</tn>
+		<rhavg>98.6</rhavg>
+		<rhx>99.1</rhx>
+		<rhn>98.3</rhn>
+		<td>11.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 08:30 CET</valid>
+		<valid_UTC>09.11.2022 07:30 UTC</valid_UTC>
+		<validStart>09.11.2022 07:00 UTC</validStart>
+		<validEnd>09.11.2022 07:30 UTC</validEnd>
+		<tavg>11.6</tavg>
+		<tx>11.7</tx>
+		<tn>11.4</tn>
+		<rhavg>99.7</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>99.2</rhn>
+		<td>11.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 08:00 CET</valid>
+		<valid_UTC>09.11.2022 07:00 UTC</valid_UTC>
+		<validStart>09.11.2022 06:30 UTC</validStart>
+		<validEnd>09.11.2022 07:00 UTC</validEnd>
+		<tavg>11.2</tavg>
+		<tx>11.4</tx>
+		<tn>11.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>11.2</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 07:30 CET</valid>
+		<valid_UTC>09.11.2022 06:30 UTC</valid_UTC>
+		<validStart>09.11.2022 06:00 UTC</validStart>
+		<validEnd>09.11.2022 06:30 UTC</validEnd>
+		<tavg>11.1</tavg>
+		<tx>11.2</tx>
+		<tn>11.0</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>11.1</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 07:00 CET</valid>
+		<valid_UTC>09.11.2022 06:00 UTC</valid_UTC>
+		<validStart>09.11.2022 05:30 UTC</validStart>
+		<validEnd>09.11.2022 06:00 UTC</validEnd>
+		<tavg>10.9</tavg>
+		<tx>11.0</tx>
+		<tn>10.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 06:30 CET</valid>
+		<valid_UTC>09.11.2022 05:30 UTC</valid_UTC>
+		<validStart>09.11.2022 05:00 UTC</validStart>
+		<validEnd>09.11.2022 05:30 UTC</validEnd>
+		<tavg>10.9</tavg>
+		<tx>10.9</tx>
+		<tn>10.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 06:00 CET</valid>
+		<valid_UTC>09.11.2022 05:00 UTC</valid_UTC>
+		<validStart>09.11.2022 04:30 UTC</validStart>
+		<validEnd>09.11.2022 05:00 UTC</validEnd>
+		<tavg>10.8</tavg>
+		<tx>10.8</tx>
+		<tn>10.7</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 05:30 CET</valid>
+		<valid_UTC>09.11.2022 04:30 UTC</valid_UTC>
+		<validStart>09.11.2022 04:00 UTC</validStart>
+		<validEnd>09.11.2022 04:30 UTC</validEnd>
+		<tavg>10.6</tavg>
+		<tx>10.7</tx>
+		<tn>10.5</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 05:00 CET</valid>
+		<valid_UTC>09.11.2022 04:00 UTC</valid_UTC>
+		<validStart>09.11.2022 03:30 UTC</validStart>
+		<validEnd>09.11.2022 04:00 UTC</validEnd>
+		<tavg>10.5</tavg>
+		<tx>10.5</tx>
+		<tn>10.4</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.5</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 04:30 CET</valid>
+		<valid_UTC>09.11.2022 03:30 UTC</valid_UTC>
+		<validStart>09.11.2022 03:00 UTC</validStart>
+		<validEnd>09.11.2022 03:30 UTC</validEnd>
+		<tavg>10.4</tavg>
+		<tx>10.5</tx>
+		<tn>10.4</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.4</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 04:00 CET</valid>
+		<valid_UTC>09.11.2022 03:00 UTC</valid_UTC>
+		<validStart>09.11.2022 02:30 UTC</validStart>
+		<validEnd>09.11.2022 03:00 UTC</validEnd>
+		<tavg>10.3</tavg>
+		<tx>10.4</tx>
+		<tn>10.2</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 03:30 CET</valid>
+		<valid_UTC>09.11.2022 02:30 UTC</valid_UTC>
+		<validStart>09.11.2022 02:00 UTC</validStart>
+		<validEnd>09.11.2022 02:30 UTC</validEnd>
+		<tavg>10.2</tavg>
+		<tx>10.3</tx>
+		<tn>10.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.2</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 03:00 CET</valid>
+		<valid_UTC>09.11.2022 02:00 UTC</valid_UTC>
+		<validStart>09.11.2022 01:30 UTC</validStart>
+		<validEnd>09.11.2022 02:00 UTC</validEnd>
+		<tavg>10.0</tavg>
+		<tx>10.1</tx>
+		<tn>9.9</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>10.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 02:30 CET</valid>
+		<valid_UTC>09.11.2022 01:30 UTC</valid_UTC>
+		<validStart>09.11.2022 01:00 UTC</validStart>
+		<validEnd>09.11.2022 01:30 UTC</validEnd>
+		<tavg>9.8</tavg>
+		<tx>10.0</tx>
+		<tn>9.7</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>9.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 02:00 CET</valid>
+		<valid_UTC>09.11.2022 01:00 UTC</valid_UTC>
+		<validStart>09.11.2022 00:30 UTC</validStart>
+		<validEnd>09.11.2022 01:00 UTC</validEnd>
+		<tavg>9.6</tavg>
+		<tx>9.7</tx>
+		<tn>9.5</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>9.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 01:30 CET</valid>
+		<valid_UTC>09.11.2022 00:30 UTC</valid_UTC>
+		<validStart>09.11.2022 00:00 UTC</validStart>
+		<validEnd>09.11.2022 00:30 UTC</validEnd>
+		<tavg>9.3</tavg>
+		<tx>9.5</tx>
+		<tn>9.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>9.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 01:00 CET</valid>
+		<valid_UTC>09.11.2022 00:00 UTC</valid_UTC>
+		<validStart>08.11.2022 23:30 UTC</validStart>
+		<validEnd>09.11.2022 00:00 UTC</validEnd>
+		<tavg>9.0</tavg>
+		<tx>9.1</tx>
+		<tn>8.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>9.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 00:30 CET</valid>
+		<valid_UTC>08.11.2022 23:30 UTC</valid_UTC>
+		<validStart>08.11.2022 23:00 UTC</validStart>
+		<validEnd>08.11.2022 23:30 UTC</validEnd>
+		<tavg>8.5</tavg>
+		<tx>8.8</tx>
+		<tn>8.1</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>8.5</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>09.11.2022 00:00 CET</valid>
+		<valid_UTC>08.11.2022 23:00 UTC</valid_UTC>
+		<validStart>08.11.2022 22:30 UTC</validStart>
+		<validEnd>08.11.2022 23:00 UTC</validEnd>
+		<tavg>8.0</tavg>
+		<tx>8.1</tx>
+		<tn>7.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>8.0</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 23:30 CET</valid>
+		<valid_UTC>08.11.2022 22:30 UTC</valid_UTC>
+		<validStart>08.11.2022 22:00 UTC</validStart>
+		<validEnd>08.11.2022 22:30 UTC</validEnd>
+		<tavg>8.2</tavg>
+		<tx>8.5</tx>
+		<tn>7.8</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>8.2</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 23:00 CET</valid>
+		<valid_UTC>08.11.2022 22:00 UTC</valid_UTC>
+		<validStart>08.11.2022 21:30 UTC</validStart>
+		<validEnd>08.11.2022 22:00 UTC</validEnd>
+		<tavg>8.4</tavg>
+		<tx>8.5</tx>
+		<tn>8.2</tn>
+		<rhavg>100.0</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>100.0</rhn>
+		<td>8.4</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 22:30 CET</valid>
+		<valid_UTC>08.11.2022 21:30 UTC</valid_UTC>
+		<validStart>08.11.2022 21:00 UTC</validStart>
+		<validEnd>08.11.2022 21:30 UTC</validEnd>
+		<tavg>8.7</tavg>
+		<tx>9.1</tx>
+		<tn>8.6</tn>
+		<rhavg>99.4</rhavg>
+		<rhx>100.0</rhx>
+		<rhn>98.8</rhn>
+		<td>8.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 22:00 CET</valid>
+		<valid_UTC>08.11.2022 21:00 UTC</valid_UTC>
+		<validStart>08.11.2022 20:30 UTC</validStart>
+		<validEnd>08.11.2022 21:00 UTC</validEnd>
+		<tavg>9.5</tavg>
+		<tx>9.7</tx>
+		<tn>8.9</tn>
+		<rhavg>98.4</rhavg>
+		<rhx>98.6</rhx>
+		<rhn>98.2</rhn>
+		<td>9.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 21:30 CET</valid>
+		<valid_UTC>08.11.2022 20:30 UTC</valid_UTC>
+		<validStart>08.11.2022 20:00 UTC</validStart>
+		<validEnd>08.11.2022 20:30 UTC</validEnd>
+		<tavg>9.8</tavg>
+		<tx>9.9</tx>
+		<tn>9.7</tn>
+		<rhavg>97.9</rhavg>
+		<rhx>98.2</rhx>
+		<rhn>97.5</rhn>
+		<td>9.5</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 21:00 CET</valid>
+		<valid_UTC>08.11.2022 20:00 UTC</valid_UTC>
+		<validStart>08.11.2022 19:30 UTC</validStart>
+		<validEnd>08.11.2022 20:00 UTC</validEnd>
+		<tavg>9.8</tavg>
+		<tx>9.8</tx>
+		<tn>9.7</tn>
+		<rhavg>97.7</rhavg>
+		<rhx>98.0</rhx>
+		<rhn>97.5</rhn>
+		<td>9.5</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 20:30 CET</valid>
+		<valid_UTC>08.11.2022 19:30 UTC</valid_UTC>
+		<validStart>08.11.2022 19:00 UTC</validStart>
+		<validEnd>08.11.2022 19:30 UTC</validEnd>
+		<tavg>9.7</tavg>
+		<tx>9.8</tx>
+		<tn>9.7</tn>
+		<rhavg>97.8</rhavg>
+		<rhx>98.1</rhx>
+		<rhn>97.7</rhn>
+		<td>9.4</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 20:00 CET</valid>
+		<valid_UTC>08.11.2022 19:00 UTC</valid_UTC>
+		<validStart>08.11.2022 18:30 UTC</validStart>
+		<validEnd>08.11.2022 19:00 UTC</validEnd>
+		<tavg>9.6</tavg>
+		<tx>9.7</tx>
+		<tn>9.5</tn>
+		<rhavg>98.0</rhavg>
+		<rhx>98.4</rhx>
+		<rhn>97.5</rhn>
+		<td>9.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 19:30 CET</valid>
+		<valid_UTC>08.11.2022 18:30 UTC</valid_UTC>
+		<validStart>08.11.2022 18:00 UTC</validStart>
+		<validEnd>08.11.2022 18:30 UTC</validEnd>
+		<tavg>9.9</tavg>
+		<tx>9.9</tx>
+		<tn>9.7</tn>
+		<rhavg>98.0</rhavg>
+		<rhx>98.5</rhx>
+		<rhn>97.5</rhn>
+		<td>9.6</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 19:00 CET</valid>
+		<valid_UTC>08.11.2022 18:00 UTC</valid_UTC>
+		<validStart>08.11.2022 17:30 UTC</validStart>
+		<validEnd>08.11.2022 18:00 UTC</validEnd>
+		<tavg>9.6</tavg>
+		<tx>9.8</tx>
+		<tn>9.3</tn>
+		<rhavg>98.3</rhavg>
+		<rhx>98.5</rhx>
+		<rhn>98.1</rhn>
+		<td>9.3</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 18:30 CET</valid>
+		<valid_UTC>08.11.2022 17:30 UTC</valid_UTC>
+		<validStart>08.11.2022 17:00 UTC</validStart>
+		<validEnd>08.11.2022 17:30 UTC</validEnd>
+		<tavg>9.1</tavg>
+		<tx>9.3</tx>
+		<tn>9.0</tn>
+		<rhavg>97.9</rhavg>
+		<rhx>98.6</rhx>
+		<rhn>97.1</rhn>
+		<td>8.8</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 18:00 CET</valid>
+		<valid_UTC>08.11.2022 17:00 UTC</valid_UTC>
+		<validStart>08.11.2022 16:30 UTC</validStart>
+		<validEnd>08.11.2022 17:00 UTC</validEnd>
+		<tavg>9.5</tavg>
+		<tx>10.0</tx>
+		<tn>8.9</tn>
+		<rhavg>95.8</rhavg>
+		<rhx>96.5</rhx>
+		<rhn>95.1</rhn>
+		<td>8.9</td>
+		<rr>0.0</rr>
+		<lwavg>10.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 17:30 CET</valid>
+		<valid_UTC>08.11.2022 16:30 UTC</valid_UTC>
+		<validStart>08.11.2022 16:00 UTC</validStart>
+		<validEnd>08.11.2022 16:30 UTC</validEnd>
+		<tavg>10.4</tavg>
+		<tx>11.0</tx>
+		<tn>9.7</tn>
+		<rhavg>92.5</rhavg>
+		<rhx>95.0</rhx>
+		<rhn>90.4</rhn>
+		<td>9.2</td>
+		<rr>0.0</rr>
+		<lwavg>9.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 17:00 CET</valid>
+		<valid_UTC>08.11.2022 16:00 UTC</valid_UTC>
+		<validStart>08.11.2022 15:30 UTC</validStart>
+		<validEnd>08.11.2022 16:00 UTC</validEnd>
+		<tavg>12.0</tavg>
+		<tx>12.9</tx>
+		<tn>11.1</tn>
+		<rhavg>86.2</rhavg>
+		<rhx>90.2</rhx>
+		<rhn>83.1</rhn>
+		<td>9.8</td>
+		<rr>0.0</rr>
+		<lwavg>2.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 16:30 CET</valid>
+		<valid_UTC>08.11.2022 15:30 UTC</valid_UTC>
+		<validStart>08.11.2022 15:00 UTC</validStart>
+		<validEnd>08.11.2022 15:30 UTC</validEnd>
+		<tavg>15.0</tavg>
+		<tx>16.0</tx>
+		<tn>13.1</tn>
+		<rhavg>69.1</rhavg>
+		<rhx>82.4</rhx>
+		<rhn>63.4</rhn>
+		<td>9.4</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 16:00 CET</valid>
+		<valid_UTC>08.11.2022 15:00 UTC</valid_UTC>
+		<validStart>08.11.2022 14:30 UTC</validStart>
+		<validEnd>08.11.2022 15:00 UTC</validEnd>
+		<tavg>16.1</tavg>
+		<tx>16.5</tx>
+		<tn>16.0</tn>
+		<rhavg>64.3</rhavg>
+		<rhx>67.2</rhx>
+		<rhn>61.7</rhn>
+		<td>9.4</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 15:30 CET</valid>
+		<valid_UTC>08.11.2022 14:30 UTC</valid_UTC>
+		<validStart>08.11.2022 14:00 UTC</validStart>
+		<validEnd>08.11.2022 14:30 UTC</validEnd>
+		<tavg>16.6</tavg>
+		<tx>17.0</tx>
+		<tn>16.3</tn>
+		<rhavg>63.6</rhavg>
+		<rhx>67.2</rhx>
+		<rhn>59.6</rhn>
+		<td>9.7</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 15:00 CET</valid>
+		<valid_UTC>08.11.2022 14:00 UTC</valid_UTC>
+		<validStart>08.11.2022 13:30 UTC</validStart>
+		<validEnd>08.11.2022 14:00 UTC</validEnd>
+		<tavg>16.6</tavg>
+		<tx>16.9</tx>
+		<tn>16.3</tn>
+		<rhavg>64.2</rhavg>
+		<rhx>67.5</rhx>
+		<rhn>62.6</rhn>
+		<td>9.8</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 14:30 CET</valid>
+		<valid_UTC>08.11.2022 13:30 UTC</valid_UTC>
+		<validStart>08.11.2022 13:00 UTC</validStart>
+		<validEnd>08.11.2022 13:30 UTC</validEnd>
+		<tavg>17.0</tavg>
+		<tx>17.4</tx>
+		<tn>16.6</tn>
+		<rhavg>64.4</rhavg>
+		<rhx>66.8</rhx>
+		<rhn>62.4</rhn>
+		<td>10.2</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 14:00 CET</valid>
+		<valid_UTC>08.11.2022 13:00 UTC</valid_UTC>
+		<validStart>08.11.2022 12:30 UTC</validStart>
+		<validEnd>08.11.2022 13:00 UTC</validEnd>
+		<tavg>15.4</tavg>
+		<tx>16.5</tx>
+		<tn>15.0</tn>
+		<rhavg>70.3</rhavg>
+		<rhx>71.6</rhx>
+		<rhn>67.9</rhn>
+		<td>10.0</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 13:30 CET</valid>
+		<valid_UTC>08.11.2022 12:30 UTC</valid_UTC>
+		<validStart>08.11.2022 12:00 UTC</validStart>
+		<validEnd>08.11.2022 12:30 UTC</validEnd>
+		<tavg>15.7</tavg>
+		<tx>16.5</tx>
+		<tn>15.3</tn>
+		<rhavg>67.8</rhavg>
+		<rhx>71.3</rhx>
+		<rhn>62.9</rhn>
+		<td>9.8</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 13:00 CET</valid>
+		<valid_UTC>08.11.2022 12:00 UTC</valid_UTC>
+		<validStart>08.11.2022 11:30 UTC</validStart>
+		<validEnd>08.11.2022 12:00 UTC</validEnd>
+		<tavg>16.4</tavg>
+		<tx>16.6</tx>
+		<tn>16.1</tn>
+		<rhavg>62.3</rhavg>
+		<rhx>67.5</rhx>
+		<rhn>57.8</rhn>
+		<td>9.2</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 12:30 CET</valid>
+		<valid_UTC>08.11.2022 11:30 UTC</valid_UTC>
+		<validStart>08.11.2022 11:00 UTC</validStart>
+		<validEnd>08.11.2022 11:30 UTC</validEnd>
+		<tavg>16.1</tavg>
+		<tx>16.7</tx>
+		<tn>15.9</tn>
+		<rhavg>65.4</rhavg>
+		<rhx>68.0</rhx>
+		<rhn>62.6</rhn>
+		<td>9.6</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 12:00 CET</valid>
+		<valid_UTC>08.11.2022 11:00 UTC</valid_UTC>
+		<validStart>08.11.2022 10:30 UTC</validStart>
+		<validEnd>08.11.2022 11:00 UTC</validEnd>
+		<tavg>16.7</tavg>
+		<tx>17.0</tx>
+		<tn>16.3</tn>
+		<rhavg>63.5</rhavg>
+		<rhx>66.4</rhx>
+		<rhn>60.1</rhn>
+		<td>9.8</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 11:30 CET</valid>
+		<valid_UTC>08.11.2022 10:30 UTC</valid_UTC>
+		<validStart>08.11.2022 10:00 UTC</validStart>
+		<validEnd>08.11.2022 10:30 UTC</validEnd>
+		<tavg>15.7</tavg>
+		<tx>16.3</tx>
+		<tn>14.8</tn>
+		<rhavg>68.3</rhavg>
+		<rhx>72.9</rhx>
+		<rhn>65.1</rhn>
+		<td>9.9</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 11:00 CET</valid>
+		<valid_UTC>08.11.2022 10:00 UTC</valid_UTC>
+		<validStart>08.11.2022 09:30 UTC</validStart>
+		<validEnd>08.11.2022 10:00 UTC</validEnd>
+		<tavg>14.2</tavg>
+		<tx>14.7</tx>
+		<tn>13.3</tn>
+		<rhavg>76.1</rhavg>
+		<rhx>78.6</rhx>
+		<rhn>72.7</rhn>
+		<td>10.1</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 10:30 CET</valid>
+		<valid_UTC>08.11.2022 09:30 UTC</valid_UTC>
+		<validStart>08.11.2022 09:00 UTC</validStart>
+		<validEnd>08.11.2022 09:30 UTC</validEnd>
+		<tavg>12.6</tavg>
+		<tx>13.5</tx>
+		<tn>12.0</tn>
+		<rhavg>80.5</rhavg>
+		<rhx>83.3</rhx>
+		<rhn>78.5</rhn>
+		<td>9.3</td>
+		<rr>0.0</rr>
+		<lwavg>0.0</lwavg>
+	</metData>
+	<metData>
+		<valid>08.11.2022 10:00 CET</valid>
+		<valid_UTC>08.11.2022 09:00 UTC</valid_UTC>
+		<validStart>08.11.2022 08:30 UTC</validStart>
+		<validEnd>08.11.2022 09:00 UTC</validEnd>
+		<tavg>10.5</tavg>
+		<tx>11.7</tx>
+		<tn>9.0</tn>
+		<rhavg>88.2</rhavg>
+		<rhx>94.3</rhx>
+		<rhn>83.2</rhn>
+		<td>8.6</td>
+		<rr>0.0</rr>
+		<lwavg>2.0</lwavg>
+	</metData>
+</data>

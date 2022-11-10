@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<NogometnaLiga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <liga>
+    <Ekipa>
+      <ime>Italija     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Italija     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Španija     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Španija     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Slovenija   </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Slovenija   </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Anglija     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Anglija     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Nemčija     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Nemčija     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Belgija     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Belgija     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>San Marino  </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>San Marino  </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Portugalska </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Portugalska </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Švedska     </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Švedska     </Ime>
+    </Ekipa>
+    <Ekipa>
+      <ime>Islandija   </ime>
+      <štTekem>0</štTekem>
+      <štZmag>0</štZmag>
+      <štNeodločenih>0</štNeodločenih>
+      <daniGoli>0</daniGoli>
+      <prejetiGoli>0</prejetiGoli>
+      <Ime>Islandija   </Ime>
+    </Ekipa>
+  </liga>
+</NogometnaLiga>
