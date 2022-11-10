@@ -1,0 +1,11 @@
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\bin\Debug\StandardJSON.exe.config
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\bin\Debug\StandardJSON.exe
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\bin\Debug\StandardJSON.pdb
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\bin\Debug\Newtonsoft.Json.dll
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\bin\Debug\Newtonsoft.Json.xml
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.csproj.CopyComplete
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.exe
+C:\D disk\git\PRO22\StandardJSON\StandardJSON\obj\Debug\StandardJSON.pdb
