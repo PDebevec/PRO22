@@ -20,6 +20,9 @@ namespace NepoezanDostop
     /// </summary>
     public partial class MainWindow : Window
     {
+        adw adw;
+        adwTableAdapters.ProductTableAdapter ta;
+        CollectionViewSource productViewSource;
         public MainWindow()
         {
             InitializeComponent();
@@ -27,13 +30,24 @@ namespace NepoezanDostop
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-
-            NepoezanDostop.adw adw = ((NepoezanDostop.adw)(this.FindResource("adw")));
+            adw = ((adw)(this.FindResource("adw")));
             // Load data into the table Product. You can modify this code as needed.
-            NepoezanDostop.adwTableAdapters.ProductTableAdapter adwProductTableAdapter = new NepoezanDostop.adwTableAdapters.ProductTableAdapter();
-            adwProductTableAdapter.Fill(adw.Product);
-            System.Windows.Data.CollectionViewSource productViewSource = ((System.Windows.Data.CollectionViewSource)(this.FindResource("productViewSource")));
+            ta = new adwTableAdapters.ProductTableAdapter();
+            ta.Fill(adw.Product);
+            productViewSource = ((CollectionViewSource)(this.FindResource("productViewSource")));
             productViewSource.View.MoveCurrentToFirst();
+        }
+
+        private void Naprej(object sender, RoutedEventArgs e)
+        {
+            int število = ((CollectionView)productViewSource.View).Count;
+            if (productViewSource.View.CurrentPosition < število-1)
+                productViewSource.View.MoveCurrentToNext();
+        }
+        private void Nazaj(object sender, RoutedEventArgs e)
+        {
+            if (productViewSource.View.CurrentPosition > 0)
+                productViewSource.View.MoveCurrentToPrevious();
         }
     }
 }
