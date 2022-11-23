@@ -1,0 +1,11 @@
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.exe.config
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.exe
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.pdb
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.Form1.resources
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.Properties.Resources.resources
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.exe
+C:\D disk\git\PRO22\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.pdb
