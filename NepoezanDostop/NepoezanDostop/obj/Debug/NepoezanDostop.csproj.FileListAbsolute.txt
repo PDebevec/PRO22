@@ -1,0 +1,17 @@
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\bin\Debug\NepoezanDostop.exe.config
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\bin\Debug\NepoezanDostop.exe
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\bin\Debug\NepoezanDostop.pdb
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\MainWindow.g.cs
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\App.g.cs
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop_MarkupCompile.cache
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop_MarkupCompile.lref
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\MainWindow.baml
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.g.resources
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.Properties.Resources.resources
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.exe
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.pdb
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\GeneratedInternalTypeHelper.g.cs
