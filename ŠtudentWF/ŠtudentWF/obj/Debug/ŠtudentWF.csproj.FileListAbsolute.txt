@@ -1,0 +1,11 @@
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\bin\Debug\ŠtudentWF.exe.config
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\bin\Debug\ŠtudentWF.exe
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\bin\Debug\ŠtudentWF.pdb
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.Form1.resources
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.Properties.Resources.resources
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.csproj.GenerateResource.cache
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.exe
+C:\D disk\git\PRO22\ŠtudentWF\ŠtudentWF\obj\Debug\ŠtudentWF.pdb
