@@ -15,3 +15,5 @@ C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.cspro
 C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.exe
 C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\NepoezanDostop.pdb
 C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\Prodaja.g.cs
+C:\D disk\git\PRO22\NepoezanDostop\NepoezanDostop\obj\Debug\Prodaja.baml

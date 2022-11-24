@@ -49,5 +49,10 @@ namespace NepoezanDostop
             if (productViewSource.View.CurrentPosition > 0)
                 productViewSource.View.MoveCurrentToPrevious();
         }
+
+        private void btnShrani_Click(object sender, RoutedEventArgs e)
+        {
+            ta.Update(adw.Product);
+        }
     }
 }
