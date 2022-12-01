@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.exe.config
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.exe
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.pdb
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.exe
+C:\D disk\git\PRO22\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.pdb
