@@ -1,0 +1,13 @@
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\VajaLtoEF.exe.config
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\VajaLtoEF.exe
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\VajaLtoEF.pdb
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\EntityFramework.dll
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\EntityFramework.xml
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.csproj.CopyComplete
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.exe
+C:\D disk\git\PRO22\VajaLtoEF\VajaLtoEF\obj\Debug\VajaLtoEF.pdb
