@@ -75,7 +75,7 @@ namespace VajaLinq2
             //var celacena = be.PRODUKT.Sum(s => s.P_CENA * s.P_ZALOGA);
             //Console.WriteLine(celacena);
             //
-            var produktodDobavitelja = be.DOBAVITELJ.GroupBy(g => g.D_KODA).Select(s => s).Count();
+            var produktodDobavitelja = be.DOBAVITELJ.GroupBy(g => g.D_KODA);
             foreach (var i in produktodDobavitelja)
             {
                 if(i != null)
