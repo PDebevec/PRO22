@@ -1,0 +1,5 @@
+C:\D disk\git\PRO22\guiElektrika\guiElektrika\obj\Debug\guiElektrika.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\guiElektrika\guiElektrika\obj\Debug\guiElektrika.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\guiElektrika\guiElektrika\obj\Debug\App.g.cs
+C:\D disk\git\PRO22\guiElektrika\guiElektrika\obj\Debug\guiElektrika_Content.g.cs
+C:\D disk\git\PRO22\guiElektrika\guiElektrika\obj\Debug\guiElektrika_MarkupCompile.cache

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.5" name="AdriaLINQ">
+  <DataContextMoniker Name="/AdriaLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ee6e7c6c-b2ba-4998-9d33-9a361c8b726b" absoluteBounds="6.25, 1, 2, 3.1170068359375009">
+      <DataClassMoniker Name="/AdriaLINQDataContext/CHARTER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea0f429b-03b5-4b86-8155-d196da433671" absoluteBounds="6.265, 1.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d101c432-93a8-4287-8ee4-329ff38982ea" absoluteBounds="3.5, 1.625, 2, 1.7708968098958333">
+      <DataClassMoniker Name="/AdriaLINQDataContext/LETALO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ed29d4c5-5a5f-48ec-99c2-f9c5c862fa37" absoluteBounds="3.515, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f6343de-8229-4124-bf36-434b24263953" absoluteBounds="0.75, 1.625, 2, 1.7708968098958333">
+      <DataClassMoniker Name="/AdriaLINQDataContext/MODEL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="016f295b-3fa1-408b-ac98-6a9988855e6d" absoluteBounds="0.765, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="76a0c037-319c-4bff-a4f4-2ee9b08a6cfa" absoluteBounds="3.5, 5.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/AdriaLINQDataContext/PILOT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="636b3231-5de1-4510-b400-ccc45524b150" absoluteBounds="3.515, 5.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f4ed8c2b-b591-4cc3-9226-bcf6df0ab3f7" absoluteBounds="3.5, 8.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AdriaLINQDataContext/STRANKA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3eff4b27-9a8e-46d1-a989-27f58da55c0a" absoluteBounds="3.515, 8.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5ea397b-3a09-4cf7-a099-c67403224159" absoluteBounds="0.75, 5.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AdriaLINQDataContext/ZAPOSELNI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6bc72939-8e49-4979-9e19-4cbbbe2885a9" absoluteBounds="0.765, 5.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.51044840494792); (6.25 : 2.51044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdriaLINQDataContext/LETALO/LETALO_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="d101c432-93a8-4287-8ee4-329ff38982ea" />
+        <classShapeMoniker Id="ee6e7c6c-b2ba-4998-9d33-9a361c8b726b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.51044840494792); (3.5 : 2.51044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdriaLINQDataContext/MODEL/MODEL_LETALO" />
+      <nodes>
+        <classShapeMoniker Id="0f6343de-8229-4124-bf36-434b24263953" />
+        <classShapeMoniker Id="d101c432-93a8-4287-8ee4-329ff38982ea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.35659912109375); (6.63541416666667 : 6.35659912109375 : JumpStart); (6.80208083333333 : 6.35659912109375 : JumpEnd); (7.25 : 6.35659912109375); (7.25 : 4.1170068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdriaLINQDataContext/PILOT/PILOT_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="76a0c037-319c-4bff-a4f4-2ee9b08a6cfa" />
+        <classShapeMoniker Id="ee6e7c6c-b2ba-4998-9d33-9a361c8b726b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.20274983723958); (6.7187475 : 9.20274983723958); (6.7187475 : 4.1170068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdriaLINQDataContext/STRANKA/STRANKA_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="f4ed8c2b-b591-4cc3-9226-bcf6df0ab3f7" />
+        <classShapeMoniker Id="ee6e7c6c-b2ba-4998-9d33-9a361c8b726b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.35659912109375); (3.5 : 6.35659912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdriaLINQDataContext/ZAPOSELNI/ZAPOSELNI_PILOT" />
+      <nodes>
+        <classShapeMoniker Id="f5ea397b-3a09-4cf7-a099-c67403224159" />
+        <classShapeMoniker Id="76a0c037-319c-4bff-a4f4-2ee9b08a6cfa" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

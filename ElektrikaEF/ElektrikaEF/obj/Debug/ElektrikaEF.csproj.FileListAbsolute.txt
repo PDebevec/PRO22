@@ -1,0 +1,13 @@
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\ElektrikaEF.exe.config
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\ElektrikaEF.exe
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\ElektrikaEF.pdb
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\EntityFramework.dll
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\EntityFramework.xml
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.csproj.CopyComplete
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.exe
+C:\D disk\git\PRO22\ElektrikaEF\ElektrikaEF\obj\Debug\ElektrikaEF.pdb

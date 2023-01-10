@@ -1,0 +1,13 @@
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\VajaLinq2.exe.config
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\VajaLinq2.exe
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\VajaLinq2.pdb
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\EntityFramework.dll
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\EntityFramework.SqlServer.dll
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\EntityFramework.xml
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\bin\Debug\EntityFramework.SqlServer.xml
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.csproj.CopyComplete
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.exe
+C:\D disk\git\PRO22\VajaLinq2\VajaLinq2\obj\Debug\VajaLinq2.pdb

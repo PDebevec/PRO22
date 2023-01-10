@@ -1,0 +1,8 @@
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\bin\Debug\AdriaLetala.exe.config
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\bin\Debug\AdriaLetala.exe
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\bin\Debug\AdriaLetala.pdb
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\obj\Debug\AdriaLetala.csproj.AssemblyReference.cache
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\obj\Debug\AdriaLetala.csproj.SuggestedBindingRedirects.cache
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\obj\Debug\AdriaLetala.csproj.CoreCompileInputs.cache
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\obj\Debug\AdriaLetala.exe
+C:\D disk\git\PRO22\AdriaLetala\AdriaLetala\obj\Debug\AdriaLetala.pdb
