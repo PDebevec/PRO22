@@ -1,0 +1,13 @@
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\LinqBuy.exe.config
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\LinqBuy.exe
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\LinqBuy.pdb
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\EntityFramework.dll
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\EntityFramework.xml
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.csproj.CopyComplete
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.exe
+C:\Users\Peter\Desktop\2\C#\LinqBuy\LinqBuy\obj\Debug\LinqBuy.pdb
