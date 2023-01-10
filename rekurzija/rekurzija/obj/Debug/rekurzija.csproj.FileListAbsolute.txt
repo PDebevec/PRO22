@@ -1,0 +1,8 @@
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\bin\Debug\rekurzija.exe.config
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\bin\Debug\rekurzija.exe
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\bin\Debug\rekurzija.pdb
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\obj\Debug\rekurzija.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\obj\Debug\rekurzija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\obj\Debug\rekurzija.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\obj\Debug\rekurzija.exe
+C:\Users\Peter\Desktop\2\C#\rekurzija\rekurzija\obj\Debug\rekurzija.pdb
