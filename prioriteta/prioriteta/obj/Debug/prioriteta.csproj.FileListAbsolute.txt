@@ -1,0 +1,8 @@
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\bin\Debug\prioriteta.exe.config
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\bin\Debug\prioriteta.exe
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\bin\Debug\prioriteta.pdb
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\obj\Debug\prioriteta.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\obj\Debug\prioriteta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\obj\Debug\prioriteta.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\obj\Debug\prioriteta.exe
+C:\Users\Peter\Desktop\2\C#\prioriteta\prioriteta\obj\Debug\prioriteta.pdb
